@@ -39,7 +39,7 @@ Advanced Integrations: On-Device (Edge) AI Utilization, API / REST Integrations
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/merfaruksalam4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerfrs55) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omerfaruksaglam742@gmail.com) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/merfaruksalam4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerfaruksglm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omerfaruksaglam742@gmail.com) 
 
 
 # 💻 Tech Stack:
