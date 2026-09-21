@@ -1,16 +1,40 @@
 # 💫 About Me:
 ## TR
-Ben Ömer Faruk Sağlam, Piri Reis Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim. Üniversite eğitimime başlamadan önce 1 yıl İngilizce hazırlık eğitimi aldım. Üniversitemde Java, Python, C, C#, SQL, HTML, CSS, Bootstrap ve JavaScript gibi yazılım dilleri ve teknolojileri üzerine eğitimler görmekteyim. Türkiye Finans Katılım bankasında stajyer olarak görev aldım.
-
+Ben Ömer Faruk Sağlam, Piri Reis Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Üniversite eğitimime başlamadan önce 1 yıl İngilizce hazırlık eğitimi aldım. Üniversitemde Java, Python, C, C#, SQL, HTML, CSS, Bootstrap ve JavaScript gibi yazılım dilleri ve teknolojileri üzerine eğitimler gördüm. Türkiye Finans Katılım Bankası'nda Web Geliştirme kısmında stajyer olarak görev aldım.
 Akademik ve profesyonel tecrübelerimin yanı sıra, mimarisini ve geliştirmesini tamamen üstlendiğim, şu anda piyasaya sürülme aşamasında olan çeşitli bağımsız yazılım ve mobil uygulama projeleri üzerinde aktif olarak çalışmaktayım.
+Yazılım alanına duyduğum ilgi ve kendimi geliştirme tutkumla, teknik becerilerimi her geçen gün artırmayı hedefleyen biriyim. Bireysel veya ekip içinde çalışmaya istekli, sorumluluk sahibi ve öğrenmeye açık bir yapıya sahibim. Disiplinli çalışarak hem kişisel hem de mesleki gelişimime önem veriyorum.
+
+
+Bulut servislerine olan bağımlılığı en aza indirgeyen, çevrimdışı (offline-first) çalışabilen ve veri mahremiyetini merkeze alan Android uygulamaları tasarlıyorum. Kullanıcı verilerinin cihaz dışına sızmasını engelleyen izole yerel veritabanı kurguları inşa etmek ve bunu modern, akıcı arayüzlerle birleştirmek ana odak noktam.
+Yazılım geliştirme sürecini yalnızca çalışan bir kod yazmak değil; kötü niyetli manipülasyonlara karşı baştan önlem almak, test edilebilir mimariler (MVVM, Clean Architecture) kurmak ve sürdürülebilir sistemler tasarlamak olarak görüyorum. Geliştirme döngülerime modern yapay zeka araçlarını (AI-Assisted Development) aktif olarak entegre ederek üretim hızımı ve kod kalitemi optimize ediyorum.
+Teknik Odak Noktalarım:
+Mobil Geliştirme: Kotlin, Jetpack Compose, Coroutines, Flow
+Mimari ve Güvenlik: MVVM, Clean Architecture, Offline-First Tasarım, Cihaz İçi Veri İzolasyonu
+Veritabanı: Room Database, SQLite
+İleri Seviye Entegrasyonlar: On-Device (Cihaz İçi) Edge AI Kullanımları, API / REST Entegrasyonları
 
 Yazılım alanına duyduğum ilgi ve kendimi geliştirme tutkumla, teknik becerilerimi her geçen gün artırmayı hedefleyen biriyim. Bireysel veya ekip içinde çalışmaya istekli, sorumluluk sahibi ve öğrenmeye açık bir yapıya sahibim. Disiplinli çalışarak hem kişisel hem de mesleki gelişimime önem veriyorum.
+
 ## EN
-I am Ömer Faruk Sağlam, a second-year Computer Programming student at Piri Reis University. Before starting my degree, I completed a one-year English preparatory program. Throughout my studies, I have been trained in software development using technologies such as Java, Python, C, C#, SQL, HTML, CSS, Bootstrap, and JavaScript. I also gained industry experience as an intern at Türkiye Finans Katılım Bankası.
+I am Ömer Faruk Sağlam, a graduate of Piri Reis University with a degree in Computer Programming. Prior to starting my university education, I completed a one-year English preparatory program. During my studies, I received training in programming languages and technologies such as Java, Python, C, C#, SQL, HTML, CSS, Bootstrap, and JavaScript. I also completed an internship as a Web Development Intern at Türkiye Finans Katılım Bankası.
 
-In addition to my academic and professional experiences, I am actively developing several independent software and mobile application projects from the ground up, which are currently in the pre-release phase.
+In addition to my academic and professional background, I am actively working on several independent software and mobile application projects, where I have fully spearheaded the architecture and development, and which are currently in the pre-release phase.
 
-Driven by my passion for software development and continuous improvement, I am committed to advancing my technical skills day by day. I am motivated to work both individually and in a team, responsible, and eager to learn. I prioritize disciplined work, personal growth, and professional development.
+Driven by a passion for software development and self-improvement, I constantly aim to enhance my technical skills. I am responsible, open to learning, and eager to contribute both individually and within a team. Through disciplined work, I place strong emphasis on both personal and professional growth.
+
+I design offline-first Android applications that minimize reliance on cloud services and prioritize data privacy. My primary focus is building isolated local database structures that prevent user data from leaking outside the device, seamlessly paired with modern, fluid user interfaces.
+
+I view software development not merely as writing functional code, but as proactively safeguarding against malicious tampering, building testable architectures (MVVM, Clean Architecture), and designing sustainable systems. By actively integrating modern AI tools (AI-Assisted Development) into my workflow, I optimize development speed and code quality.
+
+Technical Focus:
+
+Mobile Development: Kotlin, Jetpack Compose, Coroutines, Flow
+
+Architecture & Security: MVVM, Clean Architecture, Offline-First Design, On-Device Data Isolation
+
+Database: Room Database, SQLite
+
+Advanced Integrations: On-Device (Edge) AI Utilization, API / REST Integrations
 
 
 
