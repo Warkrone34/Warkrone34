@@ -1,42 +1,47 @@
 # 💫 About Me:
 ## TR
-Ben Ömer Faruk Sağlam, Piri Reis Üniversitesi Bilgisayar Programcılığı bölümünden mezun oldum. Üniversite eğitimime başlamadan önce 1 yıl İngilizce hazırlık eğitimi aldım. Üniversitemde Java, Python, C, C#, SQL, HTML, CSS, Bootstrap ve JavaScript gibi yazılım dilleri ve teknolojileri üzerine eğitimler gördüm. Türkiye Finans Katılım Bankası'nda Web Geliştirme kısmında stajyer olarak görev aldım.
-Akademik ve profesyonel tecrübelerimin yanı sıra, mimarisini ve geliştirmesini tamamen üstlendiğim, şu anda piyasaya sürülme aşamasında olan çeşitli bağımsız yazılım ve mobil uygulama projeleri üzerinde aktif olarak çalışmaktayım.
-Yazılım alanına duyduğum ilgi ve kendimi geliştirme tutkumla, teknik becerilerimi her geçen gün artırmayı hedefleyen biriyim. Bireysel veya ekip içinde çalışmaya istekli, sorumluluk sahibi ve öğrenmeye açık bir yapıya sahibim. Disiplinli çalışarak hem kişisel hem de mesleki gelişimime önem veriyorum.
+Merhaba, Ben Ömer Faruk Sağlam
+Piri Reis Üniversitesi Bilgisayar Programcılığı mezunuyum (eski Türkiye Finans Katılım Bankası Web Geliştirme stajyeri). Şu anda mimarisini tamamen kendim üstlendiğim bağımsız yazılım ve mobil uygulamalar geliştiriyorum.
 
+Odak Noktam ve Yaklaşımım
+Çevrimdışı Öncelikli (Offline-First) ve Gizlilik: Bulut bağımlılığını en aza indiren, cihaz içi veri mahremiyetini merkeze alan güvenli Android uygulamaları tasarlıyorum.
 
-Bulut servislerine olan bağımlılığı en aza indirgeyen, çevrimdışı (offline-first) çalışabilen ve veri mahremiyetini merkeze alan Android uygulamaları tasarlıyorum. Kullanıcı verilerinin cihaz dışına sızmasını engelleyen izole yerel veritabanı kurguları inşa etmek ve bunu modern, akıcı arayüzlerle birleştirmek ana odak noktam.
-Yazılım geliştirme sürecini yalnızca çalışan bir kod yazmak değil; kötü niyetli manipülasyonlara karşı baştan önlem almak, test edilebilir mimariler (MVVM, Clean Architecture) kurmak ve sürdürülebilir sistemler tasarlamak olarak görüyorum. Geliştirme döngülerime modern yapay zeka araçlarını (AI-Assisted Development) aktif olarak entegre ederek üretim hızımı ve kod kalitemi optimize ediyorum.
-Teknik Odak Noktalarım:
+Modern Mimari: MVVM ve Clean Architecture ilkeleriyle ölçeklenebilir, test edilebilir sistemler kuruyorum.
+
+Yapay Zeka Destekli Süreç: AI araçlarını geliştirme akışıma entegre ederek kod kalitesini ve üretim hızını optimize ediyorum.
+
+Teknik Yetenekler
 Mobil Geliştirme: Kotlin, Jetpack Compose, Coroutines, Flow
-Mimari ve Güvenlik: MVVM, Clean Architecture, Offline-First Tasarım, Cihaz İçi Veri İzolasyonu
+
+Mimari & Güvenlik: MVVM, Clean Architecture, Offline-First, Cihaz İçi Veri İzolasyonu
+
 Veritabanı: Room Database, SQLite
-İleri Seviye Entegrasyonlar: On-Device (Cihaz İçi) Edge AI Kullanımları, API / REST Entegrasyonları
+
+Entegrasyonlar: On-Device (Edge) AI, REST API
 
 Yazılım alanına duyduğum ilgi ve kendimi geliştirme tutkumla, teknik becerilerimi her geçen gün artırmayı hedefleyen biriyim. Bireysel veya ekip içinde çalışmaya istekli, sorumluluk sahibi ve öğrenmeye açık bir yapıya sahibim. Disiplinli çalışarak hem kişisel hem de mesleki gelişimime önem veriyorum.
 
 ## EN
-I am Ömer Faruk Sağlam, a graduate of Piri Reis University with a degree in Computer Programming. Prior to starting my university education, I completed a one-year English preparatory program. During my studies, I received training in programming languages and technologies such as Java, Python, C, C#, SQL, HTML, CSS, Bootstrap, and JavaScript. I also completed an internship as a Web Development Intern at Türkiye Finans Katılım Bankası.
+Hi there, I'm Ömer Faruk Sağlam
+Computer Programming graduate from Piri Reis University with a background in Web Development (ex-intern at Türkiye Finans Katılım Bankası). Currently architecting and building independent software and mobile applications.
 
-In addition to my academic and professional background, I am actively working on several independent software and mobile application projects, where I have fully spearheaded the architecture and development, and which are currently in the pre-release phase.
+Focus & Philosophy
+Offline-First & Privacy: Building secure Android apps that minimize cloud dependency and isolate local data.
 
-Driven by a passion for software development and self-improvement, I constantly aim to enhance my technical skills. I am responsible, open to learning, and eager to contribute both individually and within a team. Through disciplined work, I place strong emphasis on both personal and professional growth.
+Modern Architecture: Crafting scalable, testable systems using MVVM and Clean Architecture.
 
-I design offline-first Android applications that minimize reliance on cloud services and prioritize data privacy. My primary focus is building isolated local database structures that prevent user data from leaking outside the device, seamlessly paired with modern, fluid user interfaces.
+AI-Assisted Workflow: Integrating modern AI tools to optimize code quality and development efficiency.
 
-I view software development not merely as writing functional code, but as proactively safeguarding against malicious tampering, building testable architectures (MVVM, Clean Architecture), and designing sustainable systems. By actively integrating modern AI tools (AI-Assisted Development) into my workflow, I optimize development speed and code quality.
-
-Technical Focus:
-
+Tech Stack
 Mobile Development: Kotlin, Jetpack Compose, Coroutines, Flow
 
-Architecture & Security: MVVM, Clean Architecture, Offline-First Design, On-Device Data Isolation
+Architecture & Security: MVVM, Clean Architecture, Offline-First, On-Device Data Isolation
 
 Database: Room Database, SQLite
 
-Advanced Integrations: On-Device (Edge) AI Utilization, API / REST Integrations
+Integrations: On-Device (Edge) AI, REST APIs
 
-
+Driven by my passion for software development and self-improvement, I continuously strive to enhance my technical skills. Responsible, adaptable, and eager to learn, I am comfortable working both independently and in team environments. Through disciplined effort, I place a strong emphasis on both my personal and professional growth.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/merfaruksalam4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerfaruksglm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omerfaruksaglam742@gmail.com) 
