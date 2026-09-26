@@ -1,20 +1,4 @@
 # 💫 About Me:
-## TR
-Merhaba, Ben Ömer Faruk Sağlam
-Piri Reis Üniversitesi Bilgisayar Programcılığı mezunuyum (eski Türkiye Finans Katılım Bankası Web Geliştirme stajyeri). Şu anda mimarisini tamamen kendim üstlendiğim bağımsız yazılım ve mobil uygulamalar geliştiriyorum.
-
-Odak Noktam ve Yaklaşımım:
-- Çevrimdışı Öncelikli (Offline-First) ve Gizlilik: Bulut bağımlılığını en aza indiren, cihaz içi veri mahremiyetini merkeze alan güvenli Android uygulamaları tasarlıyorum.
-- Modern Mimari: MVVM ve Clean Architecture ilkeleriyle ölçeklenebilir, test edilebilir sistemler kuruyorum.
-- Yapay Zeka Destekli Süreç: AI araçlarını geliştirme akışıma entegre ederek kod kalitesini ve üretim hızını optimize ediyorum.
-
-Teknik Yetenekler:
-- Mobil Geliştirme: Kotlin, Jetpack Compose, Coroutines, Flow
-- Mimari & Güvenlik: MVVM, Clean Architecture, Offline-First, Cihaz İçi Veri İzolasyonu
-- Veritabanı: Room Database, SQLite
-- Entegrasyonlar: On-Device (Edge) AI, REST API
-
-Yazılım alanına duyduğum ilgi ve kendimi geliştirme tutkumla, teknik becerilerimi her geçen gün artırmayı hedefleyen biriyim. Bireysel veya ekip içinde çalışmaya istekli, sorumluluk sahibi ve öğrenmeye açık bir yapıya sahibim. Disiplinli çalışarak hem kişisel hem de mesleki gelişimime önem veriyorum.
 
 ## EN
 Hi there, I'm Ömer Faruk Sağlam
