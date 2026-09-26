@@ -39,9 +39,11 @@ Driven by my passion for software development and self-improvement, I continuous
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omerfrs55&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omerfrs55&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfrs55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Warkrone34&theme=dark&hide_border=false&include_all_commits=true&show_icons=true" alt="GitHub Stats" /><br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Warkrone34&theme=dark&hide_border=false" alt="GitHub Streak" /><br/><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Warkrone34&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
