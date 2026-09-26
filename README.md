@@ -18,7 +18,7 @@ Tech Stack:
 Driven by my passion for software development and self-improvement, I continuously strive to enhance my technical skills. Responsible, adaptable, and eager to learn, I am comfortable working both independently and in team environments. Through disciplined effort, I place a strong emphasis on both my personal and professional growth.
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/merfaruksalam4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerfaruksglm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omerfaruksaglam742@gmail.com) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/merfaruksalam4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerfaruksglm) 
 
 
 # 💻 Tech Stack:
